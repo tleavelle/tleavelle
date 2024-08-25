@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tleavelle
 - 👀 I’m interested in cybersecurity and networking
-- 🌱 I’m currently expanding on my cybersecurity knowledge and technical skills
-- 💞️ I’m currently looking at and applying to entry level positions, any and all recomendations welcome!
+- 🌱 I’m currently studying for CompTIA SY0-009
+- 💞️ I’m currently looking for entry level networking or data center positions.
 - 📫 How to reach me:
 - +1 (325) 450 - 3347
 - tleavelle1590@gmail.com
